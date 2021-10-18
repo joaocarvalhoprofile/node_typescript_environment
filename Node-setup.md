@@ -10,3 +10,6 @@ yarn add @types/express typescript ts-node-dev -D
 
 ## Inicia typescript no projeto
 yarn tsc --init
+
+## Para usar usar process.env deve instalar lib dotenv
+yarn add dotenv
