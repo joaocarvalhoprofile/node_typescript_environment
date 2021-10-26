@@ -7,6 +7,12 @@
 yarn add prisma -D
 ```
 
+## 👩‍💻 Client prisma installation
+
+```bash
+yarn add @prisma/client
+```
+
 ## 🔁  Start prism environment
 
 ```bash
