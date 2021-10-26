@@ -1,10 +1,20 @@
-# Instalação e configurações do Prisma
+<h1 align="center">Prism Installation and Settings</h1>
 
-## Instalar
+
+## 👩‍💻 Lib prism installation
+
+```bash
 yarn add prisma -D
+```
 
-## Iniciar prisma no projeto
+## 🔁  Start prism environment
+
+```bash
 yarn prisma init
+```
 
-## Criar migration baseado em um Model
+## 🔁  Create migration based on a Model
+
+```bash
 yarn prisma migrate dev
+```
