@@ -26,7 +26,6 @@ yarn init -y
 ```bash
   yarn add dotenv
 ```
-- 
 
 ---
 
