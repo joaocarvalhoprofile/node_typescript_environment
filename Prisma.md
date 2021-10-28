@@ -29,7 +29,7 @@ yarn prisma migrate dev
 ## 🔁  run seeds
 
 ```bash
-yarn prisma db seed --preview-feature
+yarn prisma db seed
 ```
 
 ## 🚀 lib address
