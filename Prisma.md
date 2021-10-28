@@ -25,6 +25,13 @@ yarn prisma init
 yarn prisma migrate dev
 ```
 
+
+## 🔁  run seeds
+
+```bash
+yarn prisma db seed --preview-feature
+```
+
 ## 🚀 lib address
 
 - [Prisma](https://www.prisma.io/)
