@@ -22,7 +22,7 @@ yarn prisma init
 ## 🔁  Create migration based on a Model
 
 ```bash
-yarn prisma migrate dev
+yarn prisma migrate dev --name init
 ```
 
 
