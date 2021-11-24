@@ -14,9 +14,9 @@ yarn add ts-jest -D
 
 ## 💻  Start jest in project
 
-´´´bash
+```bash
 yarn jest --init 
-´´´
+```
 
 
 
