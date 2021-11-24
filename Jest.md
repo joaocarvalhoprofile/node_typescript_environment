@@ -1,12 +1,22 @@
 # Jest CLI
 
-## Install
-´´´ yarn add jest -D ´´´
-´´´ yarn add @types/jest -D ´´´
-´´´ yarn add ts-jest -D ´´´
+## 💻 Install JEST
 
-## Start jest in project
-´´´ yarn jest --init ´´´
+```bash
+yarn add jest -D
+```
+```bash
+yarn add @types/jest -D
+```
+```bash
+yarn add ts-jest -D
+```
+
+## 💻  Start jest in project
+
+´´´bash
+yarn jest --init 
+´´´
 
 
 
