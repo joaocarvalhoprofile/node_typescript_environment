@@ -23,4 +23,10 @@ yarn jest --init
 preset: 'ts-jest',
 ```
 
+```bash
+testMatch: [
+    "**/*.test.ts",
+  ],
+```
+
 
