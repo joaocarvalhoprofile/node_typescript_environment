@@ -18,7 +18,7 @@ yarn add ts-jest -D
 yarn jest --init 
 ```
 
-### Add in jest.config.j
+### Add in jest.config.js
 ```bash
 preset: 'ts-jest',
 ```
