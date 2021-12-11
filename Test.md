@@ -1,5 +1,13 @@
 # Test
 
+## Testes Unitários
+
+### Por que devemos escrever testes unitários? Algumas das vantages de se escrever testes unitários são:
+* Diminuir a quantidade de bugs do sistema;
+* Dimiuir a necessidade de testes manuais;
+* Desenvolver uma arquitetura mais eficiente;
+* Facilitar o refactoring e aumentar a confiança.
+
 # Fases
 ### Red: 
 * escrever um teste que falhe.
