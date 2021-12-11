@@ -1,5 +1,12 @@
 # Test and TDD - Test-Driven Development
-## Testes Unitários
+## Testes
+
+## Tipos de Testes
+
+### Unit
+### Integration
+### End-To-End
+
 
 ### Por que devemos escrever testes unitários? Algumas das vantages de se escrever testes unitários são:
 * Diminuir a quantidade de bugs do sistema;
