@@ -25,6 +25,12 @@ yarn prisma init
 yarn prisma migrate dev --name init
 ```
 
+## 🔁  Execute migration
+
+```bash
+yarn prisma migrate dev
+```
+
 
 ## 🔁  run seeds
 
