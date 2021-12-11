@@ -22,13 +22,17 @@
 ### Blue: 
 * refatorar o código escrito.
 
-#Leis
+# Leis
 ### 1ª Lei: 
 * Você não deve escreve nenhum código em produção sem antes ter um spec falhando.
 ### 2ª Lei: 
 * Você não pode escrever mais do que um teste unitário para fazer seu spec falhar, e não copilar é falhar.
 ### 3ª Lei: 
 * Você não pode escrever mais do que o necessário para fazer o seu teste passar.
+
+## GIVEN a context
+## WHEN some condition
+## THEN expect some output
 
 
 ## AAA = Arrange Act Assert - Triple A
