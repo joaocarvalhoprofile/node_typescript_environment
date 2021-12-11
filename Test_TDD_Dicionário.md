@@ -61,3 +61,19 @@
 * A prática do TDD nos trás disciplina no desenvolvimento diário. Ela nos permite trabalhar em uma pequena parte do código por vez independente do todo o resto do sistema. Isso aliado à técnica pomodoro faz nossa produtividade aumentar exponencialmente.
 ### Boa Arquitetrua: 
 * O TDD acaba moldando a arquitetura do nosso código de forma que ela fique menos acoplada e mais escalável.
+
+#
+## Dummy
+* Objetos que cr iamos apenas para completar a lista d eparametros que precisamos passar para invocar um determinado método
+## Stubs
+* Objetos que retornam respostas prontas, definidas para um determinado teste, por questão de performance ou segurança 
+  (Exemplo: quando eu executtar o método fazer pedido preciso que o método pegar cotação do dolar retorne R$ 5,00)
+## Spies
+* Objetos que "espionam" a execução do método e armazenam os resultdos para a verificação posterior 
+   (Exemplo: quando eu executar o método fazer pedido preciso saber se o método evniar email foi invocado internamente e com quais parametros)
+## Mocks
+* Objetos similares a stubs e spies, permitem que você diga exatamente o que quer que ele faça e o teste vai quebrar se isso
+  não acontecer
+## Fake
+* Objetos que tem implementações que simulam o funcionamento da instancia real, que seria utilizada em produção
+  (Exemplo: uma base de dados em memória)
