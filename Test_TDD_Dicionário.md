@@ -29,11 +29,12 @@
 ### 3ª Lei: 
 * Você não pode escrever mais do que o necessário para fazer o seu teste passar.
 
+# Ténicas BDD
 ## GIVEN a context
 ## WHEN some condition
 ## THEN expect some output
 
-
+# Ténicas TDD
 ## AAA = Arrange Act Assert - Triple A
 
 ### 1ª Arrange
@@ -61,7 +62,7 @@
 ### Boa Arquitetrua: 
 * O TDD acaba moldando a arquitetura do nosso código de forma que ela fique menos acoplada e mais escalável.
 
-#
+# Tests Paterns
 ## Dummy
 * Objetos que cr iamos apenas para completar a lista d eparametros que precisamos passar para invocar um determinado método
 ## Stubs
