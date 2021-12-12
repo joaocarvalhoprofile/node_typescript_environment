@@ -30,9 +30,12 @@
 * Você não pode escrever mais do que o necessário para fazer o seu teste passar.
 
 # Ténicas BDD
-## GIVEN a context
-## WHEN some condition
-## THEN expect some output
+## GIVEN 
+* a context
+## WHEN 
+* some condition
+## THEN 
+* expect some output
 
 # Ténicas TDD
 ## AAA = Arrange Act Assert - Triple A
