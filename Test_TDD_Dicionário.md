@@ -1,5 +1,4 @@
 # Test and TDD - Test-Driven Development
-## Testes
 
 ## Tipos de Testes
 
@@ -8,13 +7,13 @@
 ### End-To-End
 
 
-### Por que devemos escrever testes unitários? Algumas das vantages de se escrever testes unitários são:
+### Por que devemos escrever testes ? Algumas das vantages de se escrever testes unitários são:
 * Diminuir a quantidade de bugs do sistema;
 * Dimiuir a necessidade de testes manuais;
 * Desenvolver uma arquitetura mais eficiente;
 * Facilitar o refactoring e aumentar a confiança.
 
-# Fases
+# Fases do TDD
 ### Red: 
 * escrever um teste que falhe.
 ### Green: 
@@ -22,7 +21,7 @@
 ### Blue: 
 * refatorar o código escrito.
 
-# Leis
+# Leis do TDD
 ### 1ª Lei: 
 * Você não deve escreve nenhum código em produção sem antes ter um spec falhando.
 ### 2ª Lei: 
