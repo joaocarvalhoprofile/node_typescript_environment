@@ -19,7 +19,7 @@ yarn add @prisma/client
 yarn prisma init
 ```
 
-## 🔁  Create migration based on a Model
+## 🔁  Create migration named migrate
 
 ```bash
 yarn prisma migrate dev --name init
