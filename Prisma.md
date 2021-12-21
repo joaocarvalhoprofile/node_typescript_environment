@@ -25,7 +25,7 @@ yarn prisma init
 yarn prisma migrate dev --name init
 ```
 
-## 🔁  Execute migration
+## 🔁  Execute migration existing model
 
 ```bash
 yarn prisma migrate dev
