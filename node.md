@@ -1,7 +1,7 @@
 <h1 align="center">Node and Typescript</h1>
 
 
-## 💻 Start a project node
+### 💻 Start a project node
 
 
 ```bash
@@ -9,7 +9,7 @@ yarn init -y
 ```
 
 
-## 👨‍💻  Installing libs for an express project with typescript
+### 👨‍💻  Installing libs for an express project with typescript
 ```bash
   yarn add express
 ```
