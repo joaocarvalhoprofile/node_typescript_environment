@@ -17,12 +17,12 @@ yarn init -y
   yarn add @types/express typescript ts-node-dev -D
 ```
 
-## 📝  Create typescript configuration file
+### 📝  Create typescript configuration file
 ```bash
   yarn tsc --init
 ```
 
-## 👨‍💻  Dotenv lib installation to use process.env on node
+### 👨‍💻  Dotenv lib installation to use process.env on node
 ```bash
   yarn add dotenv
 ```
