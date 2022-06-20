@@ -31,11 +31,11 @@
 
 # Ténicas BDD
 ## GIVEN 
-* a context
+* a context - Definição de todas as informações necessárias para executar o comportamento que será testado
 ## WHEN 
-* some condition
+* some condition - Executar o comportamento
 ## THEN 
-* expect some output
+* expect some output - Verificar o que aconteceu após a execução. comparando as informações retornadas com a expectativa que foi criada
 
 # Ténicas TDD
 ## AAA = Arrange Act Assert - Triple A
